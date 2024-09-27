@@ -5,9 +5,9 @@ baseurl:
 url: https://magpiecalendar.github.io/content/
 date_format: "ordinal"
 title: magpie calendar
-subtitle: "magpie calendar"
+subtitle: ""
 description: "Nantong magpie calendar trading limited company"
-keywords: china Nantong, magpie calendar
+keywords: china Nantong, magpieCalendar
 timezone: Asia/Shanghai
 encoding: "utf-8"
 # 页面左下角显示的年份
@@ -60,7 +60,7 @@ highlight_theme: github
 author: Xu Jianchong
 organization: 
 organization_url: 
-github_username: magpiecalendar
+github_username: 
 location: Nantong, China
 email: MagpieCalendar@outlook.com 
 
@@ -75,28 +75,6 @@ navs:
   -
     href: /categories/
     label: categories
-
-  -
-    href: /archives/
-    label: 归档
-    mobile-hidden: true
-    hidden: true
-
-  -
-    href: /open-source/
-    label: 开源
-    mobile-hidden: true
-    hidden: true
-
-  -
-    href: /fragments/
-    label: 片段
-    hidden: true
-
-  -
-    href: /wiki/
-    label: 维基
-    hidden: true
 
   -
     href: /links/
