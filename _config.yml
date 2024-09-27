@@ -31,8 +31,8 @@ components:
         start_date: 2008-08-08
     # My Popular Repositories
     side_bar_repo:
-        enabled: true
-        limit: 5
+        enabled: false
+        limit: 0
     # 文章字数统计
     word_count:
         enabled: true
